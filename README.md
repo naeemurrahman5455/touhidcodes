@@ -31,10 +31,13 @@
 
 <div>
   <p align="left">
-    <a href="https://linkedin.com/in/touhidur-zaman" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="touhidcodes" height="30" width="40" /></a>
-    <a href="https://discord.gg/touhidcodes#9825" target="blank"><img src="https://skillicons.dev/icons?i=discord" alt="touhidcodes#9825" height="30" width="40" /></a>
-    <a href="https://dev.to/touhidcodes" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="touhidcodes" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/22104988" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22104988" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/naeemur120/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="Naeeur Rahman" height="30" width="40" /></a>
+
+        <a href="https://www.instagram.com/abun33101/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Naeeur Rahman" height="30" width="40" /></a>
+    
+    <a href="https://discord.gg/naeemurrahman2026" target="blank"><img src="https://skillicons.dev/icons?i=discord" alt="Naeeur Rahman" height="30" width="40" /></a>
+    
+
   </p>
 </div>
 
